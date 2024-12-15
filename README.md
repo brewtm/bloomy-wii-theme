@@ -2,7 +2,18 @@
 
 a theme for the wii made by brewy.
 this theme is centered around bloomy, my slime girl OC.
+
+
+
 ![bloomy](https://media.discordapp.net/attachments/1275884332518736046/1317802523142258760/image.png?ex=676002bd&is=675eb13d&hm=a37c5c6d64e22fbaa23696aabdf599317709e21c384d1c96afbe6804554fb5fa&=&format=webp&quality=lossless&width=587&height=468)
+![bloom2](https://media.discordapp.net/attachments/1275884332518736046/1317802558487789568/image.png?ex=676002c5&is=675eb145&hm=1a21f9a4d70653bfce7b804bc68fbbc0c39f42aeb8eeb4bee34c2687b21b81c9&=&format=webp&quality=lossless&width=587&height=468)
+![bloom3](https://media.discordapp.net/attachments/1275884332518736046/1317802604914540654/image.png?ex=676002d0&is=675eb150&hm=c65c10949aeaed913feea393cbf668660b345d0bd714cb3ed346fecf157864d8&=&format=webp&quality=lossless&width=438&height=350)
+![bloom4](https://media.discordapp.net/attachments/1275884332518736046/1317822790266650634/image.png?ex=6760159d&is=675ec41d&hm=45f1f9a7d22cf9d71c12c02c30a91a87af07159238bca16e94740a5a69049b8b&=&format=webp&quality=lossless&width=587&height=468)
+![bloom5](https://media.discordapp.net/attachments/1275884332518736046/1317822928938864741/image.png?ex=676015be&is=675ec43e&hm=7c9cbc0ccbe43fc65f270f929f685bbabbb7011c2d47110b9e8f902d2093cf3a&=&format=webp&quality=lossless&width=587&height=468)
+![bloom6](https://media.discordapp.net/attachments/1275884332518736046/1317822928938864741/image.png?ex=676015be&is=675ec43e&hm=7c9cbc0ccbe43fc65f270f929f685bbabbb7011c2d47110b9e8f902d2093cf3a&=&format=webp&quality=lossless&width=587&height=468)
+
+
+
 # How to build for your Region
 
 You need this things:
