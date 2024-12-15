@@ -2,6 +2,7 @@
 
 a theme for the wii made by brewy.
 this theme is centered around bloomy, my slime girl OC.
+![bloomy](https://media.discordapp.net/attachments/1275884332518736046/1317802523142258760/image.png?ex=676002bd&is=675eb13d&hm=a37c5c6d64e22fbaa23696aabdf599317709e21c384d1c96afbe6804554fb5fa&=&format=webp&quality=lossless&width=587&height=468)
 # How to build for your Region
 
 You need this things:
